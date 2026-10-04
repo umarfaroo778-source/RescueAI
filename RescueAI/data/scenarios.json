@@ -1,0 +1,6 @@
+{
+  "Bus accident": {"report":"A bus collided with a car on a busy road. Several people may be injured and traffic is building up.","location":"Karachi, Pakistan"},
+  "Flooding": {"report":"Heavy rain has caused flooding and water is rising near homes. People are trying to move to safer areas.","location":"Karachi, Pakistan"},
+  "Fire and smoke": {"report":"Smoke and fire are visible from a building. People nearby are concerned that someone may be trapped.","location":"Karachi, Pakistan"},
+  "Severe weather": {"report":"Strong winds and heavy rain are affecting the area. Debris is present and conditions may be unsafe.","location":"Karachi, Pakistan"}
+}

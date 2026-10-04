@@ -1,0 +1,11 @@
+streamlit>=1.40
+requests>=2.32
+python-dotenv>=1.0
+numpy>=1.26
+scikit-learn>=1.5
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+pytest>=8.0
+crewai>=0.86
+groq>=0.11
+google-generativeai>=0.8
